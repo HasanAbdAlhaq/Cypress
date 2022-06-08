@@ -1,0 +1,15 @@
+{
+  "name": "Hasan Abdalhaq",
+  "firstname": "Hasan",
+  "lastname": "Abdalhaq",
+  "username": "habdalhaq",
+  "id": "404893299",
+  "age": "22",
+  "email": "hello@cypress.io",
+  "body": "Fixtures are a great way to mock data for responses to routes",
+  "password": "12345",
+  "recipients": "tgmlbmg",
+  "subject": "Job Opportunity",
+  "website": "https://github.com/akveo/ngx-admin/issues"
+}
+
